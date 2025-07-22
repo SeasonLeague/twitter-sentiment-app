@@ -1,0 +1,6 @@
+streamlit
+tweepy
+pandas
+matplotlib
+textblob
+nltk
